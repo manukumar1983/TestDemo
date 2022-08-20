@@ -1,0 +1,6 @@
+http://makeseleniumeasy.com/2020/04/09/importance-of-using-threadlocal-variables-in-parallel-execution-of-automation-scripts/
+http://seleniumautomationhelper.blogspot.com/2014/02/initializing-webdriver-object-as-thread.html
+https://simplifiedqa.blogspot.com/2018/12/how-to-use-thread-local-in-selenium.html
+https://www.swtestacademy.com/selenium-parallel-tests-grid-testng/
+https://automationreinvented.blogspot.com/search/label/SeleniumWebdriver
+https://devqa.io/tag/qa/
